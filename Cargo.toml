@@ -6,8 +6,4 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-<<<<<<< HEAD
-actix-web = "3.3.2"
-=======
 actix-web = "4.0.0-beta.8"
->>>>>>> 1aee40dcdcf9e32054732c5210a52da38e3e1a93
